@@ -1,0 +1,8 @@
+-> exit                   // exit from code
+-> create : [some task]   // create new task
+-> print : all            // print all tasks
+-> print : 1/2/.../n      // print selected task
+-> done : all             // all tasks are considered complete 
+-> done : 1/2/.../n       // the selected task is considered complete 
+-> remove : all           // remove all tasks
+-> remove : 1/2/.../n     // remove selected task
