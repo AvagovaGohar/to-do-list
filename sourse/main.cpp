@@ -7,7 +7,7 @@
 
 int main()
 {
-	std::string file_name = "todo_list.txt";
+	std::string file_name = "to_do_list.txt";
 	td_list::get_all_tasks(file_name);
 	std::string command, parametrs;
 	while (true) {
